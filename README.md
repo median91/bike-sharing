@@ -23,11 +23,11 @@ This project is a data analysis and visualization project focused on e-commerce 
 ## Installation
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/irasalsabila/dicoding-mldev/tree/main/Belajar%20Machine%20Learning%20Pemula.git
+git clone https://github.com/median91/bike-sharing
 ```
 2. Go to the project directory
 ```
-cd data-analyst-dicoding
+cd bike-sharing
 ```
 3. Install the required Python packages by running:
 ```
@@ -42,10 +42,6 @@ pip install -r requirements.txt
 3. **Visualization**: Run the Streamlit dashboard for interactive data exploration:
 
 ```
-cd data-analyst-dicoding/dashboard
-streamlit run dashboard.py
+streamlit run jj_bike.py
 ```
 Access the dashboard in your web browser at `http://localhost:8501`.
-
-## Data Sources
-The project uses E-Commerce Public Dataset from [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1MsAjPM7oKtVfJL_wRp1qmCajtSG1mdcK/view) offered by [Dicoding](https://www.dicoding.com/).
