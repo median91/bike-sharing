@@ -1,6 +1,6 @@
 # Bike Sharing Dashboard
 
-[Bike Sharing Dashboard Streamlit App](https://e-commerce-data-analyst.streamlit.app/)
+[Bike Sharing Dashboard Streamlit App](https://bike-share-dicoding.streamlit.app/)
 
 ## Table of Contents
 - [Bike Sharing Dashboard](#bike-sharing-dashboard)
